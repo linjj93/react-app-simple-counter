@@ -1,0 +1,17 @@
+.counter-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-row button {
+  height: 80px;
+  width: 150px;
+  margin: 0 1.5rem;
+}
+
+.counter-row div {
+  height: 80px;
+  width: 150px;
+  margin: 0 1.5rem;
+}

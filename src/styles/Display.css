@@ -1,0 +1,12 @@
+.positive {
+  background-color: aqua;
+  border: 1px solid black;
+  line-height: 80px;
+}
+
+.negative {
+  background-color: red;
+  color: white;
+  border: 1px solid black;
+  line-height: 80px;
+}

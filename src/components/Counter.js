@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "./Button";
 import Display from "./Display";
+import "../styles/Counter.css";
 
 class Counter extends React.Component {
   constructor(props) {
